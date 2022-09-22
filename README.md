@@ -3,27 +3,46 @@
 # 💫 About Me:
 Analytical and detail-oriented aspiring Java Backend Developer. constantly seeking better quality, efficiency, and a healthy environment. I enjoy problem-solving and learning from the challenges that come along. Thus, the challenges bring the best out of me.<br>I am looking for an environment that will allow me to implement the best of my knowledge and simultaneously allow me to learn and grow.
 
-- 🔭 My first project [Zoomcar.com](https://incomparable-horse-aefbe3.netlify.app)
+---
 
-- 👯 My second project [Dermstore.com](https://62791fd6c7b50b145db9d00e--jazzy-torrone-e7ec7e.netlify.app/)
+<div>
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+</div>
 
-- 🌱 I’m currently learning **java**
+### :woman_technologist: About Me :
+ 
+- 🌱 I’m currently learning **Java,Mysql**
 
-- 👨‍💻 All of my projects are available at [https://yashbhindia.github.io/PortfolioOfficial/](https://yashbhindia.github.io/PortfolioOfficial/)
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
 
-- 📝 I regularly write articles on [https://medium.com/@yashbhindia123/individual-project-at-masai-school-zoomcar-com-beaaadf20972](https://medium.com/@yashbhindia123/individual-project-at-masai-school-zoomcar-com-beaaadf20972)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://yashbhindia.github.io/PortfolioOfficial/)
 
-- 📫 How to reach me **Yashbhindia123@gmail.com**
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@yashbhindia123)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13prBItatp18_U3aNkgArqO_ZX5JLM9F_/view?usp=sharing](https://drive.google.com/file/d/13prBItatp18_U3aNkgArqO_ZX5JLM9F_/view?usp=sharing)
+- 📫 How to reach me: **yashbhindia123@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1dyfhLzQ4Wyu539Q-x0FiPoN3lxz_pbqQ/view?usp=sharing)
+
+- ⚡ Fun fact **You can't touch your nose with your tongue**
+
+---
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Yash Bhindia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Yash Bhindia" /></a></p><br><br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100008912116349) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yashbhindia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-bhindia-0a967b229/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@yashbhindia123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/YashBhindia) 
+---
+### :mailbox: Connect with me :
+
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
+
+<p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
+<a href="https://www.linkedin.com/in/yash-bhindia-0a967b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://medium.com/@yashbhindia123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.facebook.com/profile.php?id=100008912116349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.instagram.com/yashbhindia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
+</p>
+
+---
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
