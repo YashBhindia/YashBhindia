@@ -40,6 +40,7 @@ Analytical and detail-oriented aspiring Java Backend Developer. constantly seeki
 <a href="https://medium.com/@yashbhindia123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100008912116349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://www.instagram.com/yashbhindia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://leetcode.com/YASHBHINDIA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
 </p>
 
 ---
