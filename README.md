@@ -27,10 +27,7 @@ Analytical and detail-oriented aspiring Java Backend Developer. constantly seeki
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Yash Bhindia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Yash Bhindia" /></a></p><br><br>
 
----
 ### :mailbox: Connect with me :
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
