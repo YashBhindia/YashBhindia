@@ -11,7 +11,7 @@ Analytical and detail-oriented aspiring Java Backend Developer. constantly seeki
 
 ### :woman_technologist: About Me :
  
-- 🌱 I’m currently learning **Java,Mysql,springboot**
+- 🌱 I’m currently learning **Java,Mysql,Springboot**
 
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
 
