@@ -21,7 +21,7 @@ Analytical and detail-oriented aspiring Java Backend Developer. constantly seeki
 
 - 📫 How to reach me: **yashbhindia123@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1dyfhLzQ4Wyu539Q-x0FiPoN3lxz_pbqQ/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1KDfSZTeNmR_wDLsXeKBhELEjvfRDUR9I/view?usp=sharing)
 
 - ⚡ Fun fact **You can't touch your nose with your tongue**
 
