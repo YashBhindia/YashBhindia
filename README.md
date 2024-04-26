@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Bhindia</h1>
+<h1 align="center">Hi 👋, I'm YASH BHINDIA</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 # 💫 About Me:
 Analytical and detail-oriented aspiring Java Backend Developer. constantly seeking better quality, efficiency, and a healthy environment. I enjoy problem-solving and learning from the challenges that come along. Thus, the challenges bring the best out of me.<br>I am looking for an environment that will allow me to implement the best of my knowledge and simultaneously allow me to learn and grow.
