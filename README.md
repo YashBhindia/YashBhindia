@@ -13,7 +13,7 @@ Analytical and detail-oriented aspiring Java Backend Developer. constantly seeki
  
 - 🌱 I’m currently learning **Java,Mysql**
 
-- 👯 I’m looking to collaborate on LinkedIn and GitHub
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://yashbhindia.github.io/PortfolioOfficial/)
 
