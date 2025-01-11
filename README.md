@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm YASH BHINDIA</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 # 💫 About Me:
-Analytical and detail-oriented aspiring Java Backend Developer. constantly seeking better quality, efficiency, and a healthy environment. I enjoy problem-solving and learning from the challenges that come along. Thus, the challenges bring the best out of me.<br>I am looking for an environment that will allow me to implement the best of my knowledge and simultaneously allow me to learn and grow.
+Hello there! Thanks for visiting my Github profile. I’m Yash Bhindia, currently working as an Associate System Analyst (Junior Java Developer) at NSEIT. In this role, I contribute to the development of high-performance Java applications, focusing on backend development, API integration, and scalable software design. With a strong foundation in Java programming and algorithmic problem-solving, I work to deliver solutions that meet both business and technical requirements.
+
+I am passionate about continuous learning and growth, always exploring emerging technologies and methodologies to enhance my skills. My goal is to advance as a developer while contributing to cutting-edge projects that drive innovation in the industry.
+
+Java is my primary language of choice, and I love exploring its endless possibilities to build robust and efficient applications.
+
+My dedication to writing clean and maintainable code ensures that my work is reliable and scalable. I believe in staying updated with the latest trends and technologies to stay ahead in this fast-paced industry.
+
+Thank you for visiting my profile. Looking forward to connecting with you!
+
+Yash Bhindia
 
 ---
 
@@ -13,7 +23,7 @@ Analytical and detail-oriented aspiring Java Backend Developer. constantly seeki
  
 - 🌱 I’m currently learning **Java,Mysql**
 
-- 👯 I’m looking to collaborate on LinkedIn & GitHub
+- 👯 I’m looking to collaborate on Github & GitHub
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://yashbhindia.github.io/PortfolioOfficial/)
 
@@ -33,7 +43,7 @@ Analytical and detail-oriented aspiring Java Backend Developer. constantly seeki
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
 
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/yash-bhindia-0a967b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.Github.com/in/yash-bhindia-0a967b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://medium.com/@yashbhindia123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100008912116349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://www.instagram.com/yashbhindia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YashBhindia" height="40" width="50" /></a>&nbsp;   &nbsp;
